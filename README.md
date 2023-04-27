@@ -15,3 +15,5 @@ XG Boost and Random Classifier
 
 **Metrics:**
 Recall and F-1 Score
+
+**Data Set:** Please download the dataset via the link : https://github.com/CapitalOneRecruiting/DS
